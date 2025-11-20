@@ -4,22 +4,22 @@
     "label": "Computer Scientist",
     "image": "",
     "email": "brendan.crowe@colorado.edu",
-    // "phone": "(978)-501-01290",
+    // "phone": "(978)-501-1290",
     "url": "https://brendanjcrowe.com",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "Ph.D student in Computer Science at the University of Colorado Boulder. My research interests include semantic scene completetion and robotic mapping using generative methdos, as well as millimeter-wave radar.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "1111 Engineering Drive ",
+      "postalCode": "CO 80309",
+      "city": "Boulder",
       "countryCode": "US",
-      "region": "California"
+      "region": "Colorado"
     },
     "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
+      // {
+      //   "network": "Twitter",
+      //   "username": "AlbertEinstein",
+      //   "url": "https://twitter.com/AlbertEinstein"
+      // }
     ]
   },
   "work": [
