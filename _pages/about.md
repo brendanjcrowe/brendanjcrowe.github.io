@@ -27,7 +27,6 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D student at the University of Colorado, Boulder. My research interests are in robotic perception (lidar, mm wave radar, etc) and state represenations. I beleive that in order for robotics to have its "LLM" moment we need to devopl a new class of robot centric foundations models.
+I am a Ph.D student at the University of Colorado, Boulder. My research interests are in robotic perception (lidar, mm wave radar, etc) and state representations. I believe that in order for robotics to have its "ChatGPT" moment we need to develop a new class of robot centric foundation models.
 
-Outside of work I enjoy skiing, hiking, and playing video games. I am an avid "reader" which means listening to audio books during my comute and while working out.
-
+Outside of work I enjoy skiing, hiking, and playing video games. I am an avid "reader" which means listening to audio books during my commute and while working out.
