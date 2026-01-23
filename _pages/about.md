@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-# subtitle: brendan.crowe@colorado.edu. Motto. Etc.
+subtitle: brendan.crowe@colorado.edu
 
 profile:
   align: right
