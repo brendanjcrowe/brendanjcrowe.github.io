@@ -36,15 +36,15 @@
       "position": "Database and API Developer",
       "url": "https://example.com",
       "startDate": "2019-08-01",
-      "endDate": "2023-08-01",
+      "endDate": "2021-08-01",
       "summary": "Developed  and maintained database and API integrations with ecommerce platforms."
     },
     {
       "name": "University of New Hampshire",
       "position": "Student Researcher",
       "url": "",
-      "startDate": "2017-08-01",
-      "endDate": "2019-08-01",
+      "startDate": "2020-05-01",
+      "endDate": "2021-08-01",
       "summary": "Investigated connections between inverse reinforcement learning, behavioral cloning and maximum entropy methods."
     }
   ],
@@ -194,7 +194,23 @@
       "highlights": ["Reinforcement Learning", "Partial Observed Markov Decision Processes"],
       "startDate": "2023-12-01",
       "endDate": "current",
-      "url": "https://example.com"
+      "url": ""
+    },
+    {
+      "name": "Semantic Octree Latent Diffusion",
+      "summary": "Latent diffusion models are a powerful tool for generating high-quality images. Use representaitons like octrees we can generate semantically rich 3d scenes for robotapplications.",
+      "highlights": ["Latent Diffusion", "Semantic Scene Generation", "3D Scene Generation"],
+      "startDate": "2025-05-01",
+      "endDate": "current",
+      "url": ""
+    },
+    {
+      "name": "Robot Centric Foundation Models",
+      "summary": "Use rich sensor data to train foundation models that can be used for a variety of robot tasks.",
+      "highlights": ["Robot Learning", "Foundation Models", "Robot Navigation"],
+      "startDate": "2025-08-01",
+      "endDate": "current",
+      "url": ""
     }
   ]
 }
