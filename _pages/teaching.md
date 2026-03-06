@@ -14,7 +14,7 @@ nav_order: 6
 ### Spring 2026
 **[Linear Algebra with Computer Science Applications CSCI 2820](https://home.cs.colorado.edu/~alko5368/indexCSCI2820.html)**
 
-- Prepared and delivered lectures on linear algebra applications related to my own research in robotic systems and reinforcemnt learning.
+- Prepared and delivered lectures on linear algebra applications related to my own research in robotic systems and reinforcement learning.
 - Created and maintained course materials, including notes, examples, and practice problems.
 - Held flexible office hours to support students with theory and problem solving.
 - Proctored and graded exams and assignments.
