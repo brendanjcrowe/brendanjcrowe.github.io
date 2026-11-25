@@ -1,14 +1,5 @@
-github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
-
-github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+# GitHub users and repositories shown on a repositories page (none currently enabled), e.g.:
+# github_users:
+#   - brendanjcrowe
+# github_repos:
+#   - arpg/SceneSense

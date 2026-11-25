@@ -22,7 +22,7 @@ nav_order: 6
 ---
 
 ### Spring 2025
-**[Advanced Robotics CSCI4302/5302](https://www.colorado.edu/cs/csci-4302-5302-advanced-robotics)**
+**[Advanced Robotics CSCI 4302/5302](https://www.colorado.edu/cs/csci-4302-5302-advanced-robotics)**
 
 - Gave several of the main course lectures on robotics as it relates to my research.
 - Led the redesign of course hardware and lab infrastructure to better support projects.
@@ -32,7 +32,7 @@ nav_order: 6
 ---
 
 ### Fall 2024
-**[Introduction to Robotics CSCI3302](https://www.colorado.edu/lab/correll/2023/08/17/csci-3302-introduction-robotics)**
+**[Introduction to Robotics CSCI 3302](https://www.colorado.edu/lab/correll/2023/08/17/csci-3302-introduction-robotics)**
 
 - Led weekly lab sessions focused on core robotics concepts and hands-on programming.
 - Held office hours to support students with lab implementations and course material.
@@ -41,7 +41,7 @@ nav_order: 6
 ---
 
 ### Spring 2024
-**[Introduction to Computer Science](https://cu-csci-1300-intro-programming.github.io/spring-2025-web/)**
+**[Introduction to Computer Science CSCI 1300](https://cu-csci-1300-intro-programming.github.io/spring-2025-web/)**
 
 - Taught weekly recitation sections reinforcing core programming concepts.
 - Helped develop and refine course materials, examples, and programming assignments.
@@ -50,7 +50,7 @@ nav_order: 6
 ---
 
 ### Fall 2023
-**[Introduction to Computer Science](https://cu-csci-1300-intro-programming.github.io/spring-2025-web/)**
+**[Introduction to Computer Science CSCI 1300](https://cu-csci-1300-intro-programming.github.io/spring-2025-web/)**
 
 - Taught recitation sections covering introductory programming and problem solving.
 - Contributed to the development of course material and assignment content.
